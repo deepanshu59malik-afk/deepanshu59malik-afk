@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BCA Student from India
+- 🎓 MCA Student from India
 - 💻 Focused on Frontend & Full Stack Development
 - 🌱 Currently learning **Advanced Java, React & Backend Development**
 - 🛠️ Building real-world projects using **HTML, CSS, JavaScript, PHP & MySQL**
